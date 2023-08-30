@@ -1,8 +1,9 @@
-
+import './App.css';
+import Nav from './Nav';
 const App = () => {
   return (
     <div>
-Pomodora app
+<Nav />
     </div>
   )
 }
